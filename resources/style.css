@@ -3,13 +3,13 @@ body {
   font-family: Helvetica;
 }
 div {
-  background-image: url("images/the-flatiron-building");
+  background-image: url("images/the-flatiron-building.png");
 }
 .backgroundimage p {
   font-size: 18px;
   color: white;
 }
-.backgroundimage span {
+.footer span {
   font-size: 18px;
   color: white;
 }
@@ -22,7 +22,7 @@ h1 {
   font-size: 23px;
   font-weight: bold;
   color: white;
-  background-image: url("images/the-flatiron-building");
+  background-image: url("images/the-flatiron-building.png");
 }
 p {
   font-size: 14px;
@@ -35,8 +35,9 @@ h3 {
   font-size: 23px;
   font-weight: bold;
 }
-footer {
+.footer {
   background-color: dimgray;
+  text-align: left;
 }
 .footer p {
   font-size: 11px;
