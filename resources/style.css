@@ -18,7 +18,7 @@ h1 {
   font-size: 70px;
   color: white;
 }
-.backgroundimage h2 {
+h2.backgroundimage {
   font-size: 23px;
   font-weight: bold;
   color: white;
@@ -39,7 +39,7 @@ h3 {
   background-color: dimgray;
   text-align: left;
 }
-.footer p {
+p.footer  {
   font-size: 11px;
   color: white;
 }
